@@ -6,4 +6,4 @@ JPA and Spring Hibernate would be incorporated here as an advanced training.
 
 **Database connection and Query Data.**
 
-<img src="" width=500>
+<img src="https://github.com/Duttabhi/Servlet-Training/blob/master/Servlet%20Application.PNG" width=500>
